@@ -1,6 +1,5 @@
-# xr-script-ultime-arch
-script perso pour arch-linux
-
+# tictacgo
+titactoe en go
 
 ### Installation
 ```
