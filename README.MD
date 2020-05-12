@@ -12,7 +12,7 @@ cd tictacgo
 ```
 go run tictacgo.go
 ```
-
+### crée un exécutable windows
 ```
 env GOOS=windows GOARCH=amd64 go build tictacgo.go
 ```
